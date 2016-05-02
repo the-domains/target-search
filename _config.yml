@@ -1,0 +1,28 @@
+name: Target Search
+favicon: null
+layout_spectrum: 0.3465397604741156
+typography_spectrum: 0.061233146814629436
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.8605969857890159
+  lightness: 0.5573606744874269
+  saturation: 0.3976779489312321
+  rhythmicContrast: 0.22566964151337743
+purpose: []
